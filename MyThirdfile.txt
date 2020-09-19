@@ -1,9 +1,2 @@
 <<<<<<< HEAD
-My Third file is here let check whether got pull eill let this file be here or remove it.
-My Third file is here let check whether got pull eill let this file be here or remove it.
-
-My Third file is here let check whether got pull eill let this file be here or remove it.My Third file is here let check whether got pull eill let this file be here or remove it.
-GITMERGE CHECK
-=======
-My Third file is here let check whether got pull eill let this file be here or remove it. hi kem cho maja maa
->>>>>>> 69b8e1cf231cf01112db139776164ef497db042c
+Third fiel modfied contnet
